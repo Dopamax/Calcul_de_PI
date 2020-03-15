@@ -1,0 +1,38 @@
+.txtrechercher{
+    border-radius:20px;height:40px;min-width:320px;width:320px;border:solid 2px rgb(135,194,177);
+    text-align:center;
+  
+}
+
+.txt_login{
+    border-radius:20px;
+    height:40px;min-width:320px;width:400px;border:solid 2px rgb(135,194,177);
+    text-align:center;
+    font-size: large;
+    color: rgb(135,194,177);
+  
+}
+.btn-rechercher{
+    border-radius: 40px;
+    border: groove 1px rgb(135,194,177);
+    width: 40px;
+    height: 40px;
+    background-color: rgb(135,194,177);
+    color: white;
+}
+.btn-connecter{
+    border-radius: 40px;
+    border: groove 1px rgb(135,194,177);
+    width: 110px;
+    height: 40px;
+    background-color: rgb(135,194,177);
+    color: white;
+    fill: rgb(135,194,177);
+  
+}
+
+.affichage{
+    border:solid 2px rgb(135,194,177);
+    text-align:center;
+    text-shadow: grey 0px 2px 3px 0px solid;
+}
